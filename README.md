@@ -1,1 +1,2 @@
 # projetcmi
+voici mon readme
